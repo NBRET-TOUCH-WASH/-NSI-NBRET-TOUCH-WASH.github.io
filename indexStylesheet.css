@@ -1,3 +1,12 @@
+.webPageBG {
+    z-index: -1;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    opacity: 0.025;
+}
+
 .titleLogo {
     width:900px;
 }
@@ -8,6 +17,11 @@ body {
 
 h1 {
     font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
+h2 {
+    font-size: 50pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(255, 255, 255, 1);
 }
