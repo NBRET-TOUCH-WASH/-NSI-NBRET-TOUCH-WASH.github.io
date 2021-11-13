@@ -1,0 +1,27 @@
+.flexcon {
+    display:flex
+}
+
+
+.webPageBG {
+    z-index: -1;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    opacity: 0.025;
+}
+
+.titleLogo {
+    width:900px;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+h1 {
+    font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
