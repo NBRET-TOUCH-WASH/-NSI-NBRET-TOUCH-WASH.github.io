@@ -3,3 +3,4 @@
         - headers
             - h1        taglines
             - h2        sections
+            - h3        subpart
