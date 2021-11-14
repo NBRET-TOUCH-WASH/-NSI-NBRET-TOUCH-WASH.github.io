@@ -1,6 +1,43 @@
+a:link {
+    /*color: rgb(249, 83, 194);*/
+    color: rgb(27, 99, 255);
+    /*color: rgb(22, 255, 53);*/
+}
+a:hover {
+    color: rgb(249, 182, 83);
+}
+a:visited
+{
+    color: rgb(161, 41, 255)
+}
+
+.ethHighlight {
+    color: rgb(255, 85, 104);
+}
+
+.featureHighlight1 {
+    color: rgb(41, 255, 155)
+}
+
+.featureHighlight2 {
+    color: rgb(255, 41, 148)
+}
+
+/*
+.codingHighlight1 {
+    color: rgb(22, 255, 53);
+}*/
+
+
+/* - */
+
+
 .flexcon {
     display:flex
-}
+}    
+
+
+/* - */
 
 
 .webPageBG {
@@ -28,8 +65,13 @@ img.gameSnapLeft {
     width:100%;
     height:100%;
     margin-left: 75px;
+    margin-right: 75px;
     /*transform: rotate3d(-1, 2, 0, 30deg);*//*TODO: MAKE BETTER ROTATION*/
 }
+
+
+/* - */
+
 
 body {
     background-color: rgba(0, 0, 0, 1);
@@ -56,12 +98,25 @@ h3.featureLeft {
 }
 
 h3.featureRight {
-    margin-right: 75px;
-    margin-left: 100px;
+    margin-right: 100px;
+    margin-left: 75px;
     font-size: 25pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(255, 255, 255, 1);
     /*list-style-type: square;*/
+}
+
+h3.featureCenter {
+    font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
+
+h4 {
+    margin-top: 10px;
+    font-size: 11pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
 }
 
 ul.featureRight {
