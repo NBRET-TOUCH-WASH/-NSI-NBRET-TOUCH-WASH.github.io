@@ -1,0 +1,36 @@
+- SCPecret
+    - path
+        - index.html
+            - chat in source code
+                - [sourceCodeChat]
+        - windows XP desktop
+            - eef
+
+---
+
+[sourceCodeChat]:
+> 1     Hi, sorry about going rogue for a while, things got pretty heated over here recently...
+> 2     No problem. I'd rather have you sometimes play it safe and stealthy than having to cancel
+        the whole OP, we've come so far right now.
+> 1     Did the Aux send you the reports? You know I can't send them directly cuz of the way they
+        monitor the network and the whole shebang.
+> 2     I know I know, just don't mention that stuff here, even this "chat" isn't out of their sight
+> 1     Sorry, though what about the reports?
+> 2     I don't know, the Aux was supposed to send them, huh? Didn't receive anything as of now.
+> 1     What? I specifically told them that was some Clearance Level 4 shit! the fuck have they been doing?
+> 2     Jeez I said I dunno! You sure they haven't been caught or something?
+> 1     Well now it's my turn to say that I'm not aware of anything, you know we're not supposed to know
+        anything about any Aux we're working with, right?
+> 2     True, true.
+> 2     I mean let's just roll with it. We've been revealing too much in here already... Just send the files.
+> 1     Okay for Remote VM connection?
+> 2     Okay.
+> 1     Alright, just hang on...
+> 1     Here: extraSauce\html\scpecret\SCPecret.html
+> 2     Okay, but what about the token?
+> 1     I can't remember them, I mean, when I tried to login last time it was basically trial and error as out
+        of the four tokens, only one was working.
+> 2     And you're going to tell me you don't remember it?
+> 1     I don't log onto this stuff everyday!
+> 2     Really...
+> 2     Okay, guess I'll have to find out myself...
