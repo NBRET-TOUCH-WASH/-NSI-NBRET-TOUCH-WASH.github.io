@@ -23,8 +23,8 @@ img.titlePic {
 
 body {
     background-color: #008080;
-    /*background-image: url(/assets/imgs/website/BG/index/indexBG.png);*/
-    background-image: url(/assets/imgs/website/BG/index/indexBG_PIX1.png);
+    background-image: url(/assets/imgs/website/BG/index/indexBG.png);
+    /*background-image: url(/assets/imgs/website/BG/index/indexBG_PIX1.png);*/
     background-size:cover;
 }
 
