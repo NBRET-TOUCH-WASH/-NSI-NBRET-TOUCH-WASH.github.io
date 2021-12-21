@@ -1,3 +1,15 @@
+a.specialLink {
+    font-size: 50pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #008080;
+}
+a.specialLink:hover {
+    font-size: 50pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4A225E;
+}
+
+
 .flexcon {
     display:flex
 }
@@ -22,6 +34,13 @@ body {
 
 h1 {
     font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
+
+h4 {
+    margin-top: 10px;
+    font-size: 11pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(255, 255, 255, 1);
 }

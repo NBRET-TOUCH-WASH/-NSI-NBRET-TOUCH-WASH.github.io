@@ -21,9 +21,18 @@ a.importantLink {
     font-family: PerfectDosVga437;
     /*font-family: LeviWindows;*/
     font-weight: 100;
-    font-size: 25px;
-    text-shadow: 3px 2px #999999;
+    font-size: 75px;
+    text-shadow: 3px 2px #ffffff;
     /*font-style:italic;*/
+}
+a.specialLink {
+    text-shadow: 2px 2px #000000;
+    font-size: 25px;
+    color: #4A225E;
+}
+a.specialLink:hover {
+    font-size: 25px;
+    color: #57BDFF;
 }
 
 
@@ -79,7 +88,7 @@ h4 {
     font-family: PerfectDosVga437;
     /*font-family: LeviWindows;*/
     font-weight: 100;
-    color: #818181;
+    color: #ffffff;
 }
 
 

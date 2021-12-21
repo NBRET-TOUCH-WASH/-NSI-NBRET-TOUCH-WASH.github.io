@@ -10,6 +10,16 @@ a:visited
 {
     color: rgb(161, 41, 255)
 }
+a.specialLink {
+    font-size: 50pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #008080;
+}
+a.specialLink:hover {
+    font-size: 50pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #4A225E;
+}
 
 .ethHighlight {
     color: rgb(255, 85, 104);
@@ -110,6 +120,20 @@ h3.featureCenter {
     font-size: 25pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(255, 255, 255, 1);
+}
+
+h3.featureHighCenter {
+    /*margin-right: 75px;
+    margin-left: 100px;
+    font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);*/
+
+    margin: 0 auto;
+    font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
 }
 
 h4 {
