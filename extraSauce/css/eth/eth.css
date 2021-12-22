@@ -1,4 +1,4 @@
-a:link {
+a {
     /*color: rgb(249, 83, 194);*/
     color: rgb(27, 99, 255);
     /*color: rgb(22, 255, 53);*/
@@ -6,9 +6,11 @@ a:link {
 a:hover {
     color: rgb(249, 182, 83);
 }
-a:visited
-{
+a:visited {
     color: rgb(161, 41, 255)
+}
+a:visited:hover {
+    color: rgb(249, 182, 83)
 }
 a.specialLink {
     font-size: 50pt;
