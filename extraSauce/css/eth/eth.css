@@ -22,15 +22,25 @@ a.specialLink:hover {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #4A225E;
 }
+a.videoFeatureCenter {
+    text-decoration: underline;
+    font-size: 22pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
+a.videoFeatureCenter:hover {
+    text-decoration: underline;
+    font-size: 22pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(249, 182, 83);
+}
 
 .ethHighlight {
     color: rgb(255, 85, 104);
 }
-
 .featureHighlight1 {
     color: rgb(41, 255, 155)
 }
-
 .featureHighlight2 {
     color: rgb(255, 41, 148)
 }
@@ -58,6 +68,14 @@ a.specialLink:hover {
     left: 50%;
     transform: translateX(-50%);
     width: 40%;
+    opacity: 0.05;
+}
+.trailerWebPageBG {
+    z-index: -1;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 28%;
     opacity: 0.05;
 }
 
@@ -101,6 +119,12 @@ h2 {
     color: rgba(255, 255, 255, 1);
 }
 
+h3 {
+    font-size: 25pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(255, 255, 255, 1);
+}
+
 h3.featureLeft {
     margin-right: 75px;
     margin-left: 100px;
@@ -130,7 +154,7 @@ h3.featureHighCenter {
     font-size: 25pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(255, 255, 255, 1);*/
-
+    
     margin: 0 auto;
     font-size: 25pt;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
