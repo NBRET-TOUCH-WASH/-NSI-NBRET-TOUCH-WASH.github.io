@@ -177,3 +177,35 @@ ul.featureRight {
     color: rgba(255, 255, 255, 1);
     /*list-style-type: square;*/
 }
+
+table {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+
+    background-color: rgba(20, 6, 8, 0.6);
+    /*font-size: 25px;*/
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+}
+th {
+    padding: 10px;
+
+    border-style: solid;
+    border-width: 4px;
+
+    text-align: center;
+    font-size: 25px;
+}
+td {
+    padding: 10px;
+    
+    border-style: solid;
+    border-width: 4px;
+
+    text-align: center;
+    font-size: 15px;
+}
