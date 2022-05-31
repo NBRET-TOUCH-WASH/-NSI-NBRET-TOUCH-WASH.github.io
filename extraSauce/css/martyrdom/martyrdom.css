@@ -1,0 +1,10 @@
+.catchphrase {
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-image: url("/assets/imgs/website/BG/martyrdom/martyrdomMainBG.png");
+    background-size: auto;
+    background-repeat: repeat;
+}
