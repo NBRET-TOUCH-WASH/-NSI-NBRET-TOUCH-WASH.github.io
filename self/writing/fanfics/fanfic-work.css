@@ -7,21 +7,40 @@
     padding: 40px;
     background-color: #fff;
     border-radius: 15px;
-    box-shadow: 10px 20px 5px rgba(20, 20, 20, 0.1);
+    box-shadow: 10px 20px 5px rgba(20, 20, 20, 0.2);
 }
 
-.work-group {
+.work-group-table {
     border-style: hidden;
     border-spacing: 1em 0;
     width: 100%;
 }
 td {
-    padding: 5px;
+    padding: 7px;
 }
 
 /* self styles */
+.rating {
+    font-style: normal;
+}
+.warning {
+    font-weight: bolder;
+}
+
 .fandom {
     font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.chars {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+
+.additional-notes {
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
 .stats {
     font-family: 'Courier New', Courier, monospace;
